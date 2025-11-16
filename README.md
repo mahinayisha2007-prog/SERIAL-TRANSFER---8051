@@ -56,7 +56,10 @@ while(1);
 
  
 **OUTPUT:**
-<img width="1919" height="1151" alt="505803094-55070cc5-c877-4638-85ad-aa36442528ca" src="https://github.com/user-attachments/assets/e4affc3c-b5be-421f-b7d1-01d458d4f1d6" />
+
+<img width="1919" height="1151" alt="505803094-55070cc5-c877-4638-85ad-aa36442528ca" src="https://github.com/user-attachments/assets/91233200-bce7-498e-9052-22de696fa0b2" />
+
+
 <img width="2879" height="1706" alt="511805540-7311d649-bc94-4f8d-9f5e-6e4d94fac7f1" src="https://github.com/user-attachments/assets/93ff9e04-603f-41aa-bedf-3facdc13c389" />
 
 
